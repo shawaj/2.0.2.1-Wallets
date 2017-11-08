@@ -10,7 +10,7 @@ Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enha
 **Windows Wallet**<br />
 [Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt-daemon_win_x86_v2.0.2.1.defender.zip)
 
-**Mac OSX Wallet** (Sierra+)<br />
+**Mac OSX Wallet** (For Sierra+)<br />
 [Download](https://github.com/CloakProject/2.0.2.1-Wallets/raw/master/cloakCoin_qt_osx_x64_v2.0.2.1.defender.zip)
 
 **Linux Wallet**<br />
