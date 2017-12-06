@@ -19,8 +19,7 @@ Version 2.0.2.1 as indicated by the 'DEFENDER' codename focuses on security enha
 **Android Wallet**<br />
 [Download](https://play.google.com/store/apps/details?id=com.cloakcoin.wallet)
 
-For additional help and support you can find us here:
-[Rocketchat](https://chat.cloakcoin.com)
+For additional help and support you can find us on [Rocketchat](https://chat.cloakcoin.com) or view the Cloak [Wiki](http://www.cloakwiki.org/)
 
 ## Instructions
 
@@ -88,5 +87,4 @@ dd cloakcoin-qt | grep found
 to the chat with your distribution name and version.
 
 ## Cloakteam
-For additional help and support you can find us here:
-[Rocketchat](https://chat.cloakcoin.com)
+For additional help and support you can find us on [Rocketchat](https://chat.cloakcoin.com) or view the Cloak [Wiki](http://www.cloakwiki.org/)
