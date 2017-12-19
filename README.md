@@ -34,6 +34,8 @@ For additional help and support you can find us on [Rocketchat](https://chat.clo
 7. Follow the instructions from the installer.
 8. Say yes to the 'auto blockchain downloader' this will be the fastest way!
 9. Start your new Cloakcoin 2.0 wallet and let it find other nodes and sync the blockchain
+10. Always remember to Encrypt your wallet via password Keyphrase! + regularly backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure. Access in the menu via File > Backup Wallet.<br />
+**Without your wallet.dat you cannot recover your coins.**
 
 ### Mac OSX installation
 
@@ -47,7 +49,8 @@ For additional help and support you can find us on [Rocketchat](https://chat.clo
 8. You will get a warning: 'Cant find local blockchain…..Would you like to auto-download it?'
 9. Click 'Yes'
 10. When the blockchain finnishes downloading cloakCoin-qt app will be running and in full sync!
-11. Always remember  -> to Encrypt your wallet via password Keyphrase! + backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure!
+11. Always remember to Encrypt your wallet via password Keyphrase! + regularly backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure. Access in the menu via File > Backup Wallet.<br />
+**Without your wallet.dat you cannot recover your coins.**
 
 ### Linux installation
 
@@ -79,6 +82,8 @@ apt-get install libcurl3 libcurl3-gnutls
 7. Follow the instructions from the installer.
 8. Say yes to the 'auto blockchain downloader' this will be the faster way!
 9. Let your wallet find other nodes and sync the blockchain
+10. Always remember to Encrypt your wallet via password Keyphrase! + regularly backup your wallet.dat on a USB Stick or External Harddrive. Just to be sure. Access in the menu via File > Backup Wallet.<br />
+**Without your wallet.dat you cannot recover your coins.**
 
 
 #### If cloakcoin doesnt start, please post the output of:
