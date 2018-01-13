@@ -68,7 +68,7 @@ mv .CloakCoin .CloakCoin_backup
 cd /opt
 mkdir -vp cloakcoin/2.0.2.1_defender
 cd !$
-mv /path/to/unzipped/cloakcoin* 
+mv /path/to/unzipped/cloakcoin* . 
 chmod +x cloakcoin*
 ln -s /opt/cloakcoin/2.0.2.1_defender/cloakcoin-qt /usr/local/bin/cloakcoin
 ```
